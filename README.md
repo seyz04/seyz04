@@ -1,6 +1,6 @@
-# Hi, I'm Sey 👋
+# Heyy! I'm Sey 
 
-I study **Economics and Philosophy at NYU** (Stern & CAS, class of 2029). I like building small tools that fix problems I actually have, mostly around studying, decision-making and music.
+I study Economics and Philosophy at NYU (class of 2029). I like building small tools that fix problems I actually have, mostly around studying, decision-making and music.
 
 ## Projects
 - **[Lock In](https://github.com/seyz04/lock-in)** · Swift, SwiftUI: a macOS study app built for how students with ADHD study. It teaches before it quizzes, plans review around upcoming exams, pulls due dates from Brightspace, and has an AI tutor that explains whatever is on screen.
